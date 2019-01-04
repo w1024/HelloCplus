@@ -4,4 +4,4 @@ language: cpp
   
 script:
   - cmake .
-  - make  
+  - cmake --build  
